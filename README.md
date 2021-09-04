@@ -1,5 +1,6 @@
 # Alpha-wave
 This data was recorded in the laboratory to investigate the effect of visual activity on the alpha wave in the brain signal:
+
 1- First, connect the Amplifier-Bio block to the main Powerlab unit.
 2- Connect the recording electrodes.
 3- Then open the chart software and in the Amplifier-Bio section, set the signal range to 200 microvolts, 50Hz notch filter, 1Hz high-pass filter and 50Hz low-pass filter. We also set the sampling frequency to 400 Hz.
@@ -10,4 +11,5 @@ This data was recorded in the laboratory to investigate the effect of visual act
 4- By adjusting the time axis, we compare the two parts.
 5- We obtain the power spectrum density using software.
 6- Save the signal in MATLAB format.
+
 The alpha wave is quite visible in the closed-eye mode and has a much larger amplitude compared to the open-eye mode.
